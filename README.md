@@ -1,6 +1,8 @@
 # Garbage Detector & Classifier
 
-Project for APS360 - Applied Fundamentals of Deep Learning, University of Toronto
+<img width="400" alt="image" align="right" src="https://github.com/michael-ngx/garbage-classifier/assets/108838237/152380b0-7f9f-4d55-8ed7-e7d0078d6218">
+
+Course Project for APS360 - Applied Fundamentals of Deep Learning, University of Toronto
 
 <u>Note</u>: this repository is shared only for skill display purposes. Copying others work and any other means of plagiarizing are serious offenses at the University of Toronto. Viewing the source code while taking the course is also considered an academic offense. We are not responsible for any such actions committed by students.
 
