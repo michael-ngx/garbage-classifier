@@ -1,0 +1,22 @@
+0
+ files: 	raw_dataset_nodups
+869
+ files: 	raw_dataset_nodups/plastic
+985
+ files: 	raw_dataset_nodups/biological
+1050
+ files: 	raw_dataset_nodups/paper
+834
+ files: 	raw_dataset_nodups/trash
+945
+ files: 	raw_dataset_nodups/battery
+891
+ files: 	raw_dataset_nodups/cardboard
+1977
+ files: 	raw_dataset_nodups/shoes
+769
+ files: 	raw_dataset_nodups/metal
+5325
+ files: 	raw_dataset_nodups/clothes
+2044
+ files: 	raw_dataset_nodups/glass
