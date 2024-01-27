@@ -4,7 +4,7 @@ Project for APS360 - Applied Fundamentals of Deep Learning, University of Toront
 
 <u>Note</u>: this repository is shared only for skill display purposes. Copying others work and any other means of plagiarizing are serious offenses at the University of Toronto. Viewing the source code while taking the course is also considered an academic offense. We are not responsible for any such actions committed by students.
 
-[Final Report]()
+[Final Report](https://github.com/michael-ngx/garbage-classifier/blob/main/Final_Report.pdf)
 
 [Final Video Presentation](https://www.youtube.com/watch?v=_FdqrLXcjMc&ab_channel=ChristopherShih)
 
